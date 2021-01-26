@@ -59,9 +59,13 @@ function calc_color(phi, theta){
 	let g = randomGaussian(g_base, g_dev)
 	let b = randomGaussian(b_base, b_dev)
 
-	factor = factor + 0.75
+	// factor = factor + 0.75
 
-	return color(r*factor, g*factor, b*factor)
+	//gives range -1 to 1
+	factor = factor*4 - 1
+	factor = factor*50
+
+	return color(r+factor, g+factor, b+factor)
 
 	// switch (order) {
 	// 	case 0:

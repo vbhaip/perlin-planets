@@ -51,3 +51,6 @@ for i in range(0, 5):
 	#buffer time to wrap up any ongoing processes
 	time.sleep(10)
 
+
+browser.close()
+
