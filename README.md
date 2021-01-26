@@ -10,3 +10,5 @@ Perlin noise flow fields on rotating planets
 <img src="examples/pastel.gif" width="400" height="400" />
 
 <img src="examples/pink-orange.gif" width="400" height="400" />
+
+Check out [examples](https://github.com/vbhaip/perlin-planets/tree/main/examples) for more.
