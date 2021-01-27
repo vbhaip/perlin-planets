@@ -1,5 +1,5 @@
 # Perlin Planets
-Perlin noise flow fields on rotating planets
+Perlin noise flow fields on rotating planets. Blogpost with background: [https://vinaybhaip.com/blog/2021/01/26/perlin-planets](https://vinaybhaip.com/blog/2021/01/26/perlin-planets)
 
 ## Creating Your Own Perlin Planets
 
